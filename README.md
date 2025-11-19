@@ -25,4 +25,20 @@ PRECAUTION: -
 3. To get the good performance from the kit, main room temperature.
 4. To check the power supply, it should be 220+!- 10% 50Hz to avoid voltage hazard.
 
+CIRCUIT DIAGRAM:
+<img width="1657" height="949" alt="Screenshot 2025-11-19 200829" src="https://github.com/user-attachments/assets/27f5677c-ce35-4756-907d-ed72eed80f6a" />
+<img width="1646" height="934" alt="Screenshot 2025-11-19 200842" src="https://github.com/user-attachments/assets/fcfffca6-fbaf-40e7-a3ba-8ceeb2f08d81" />
+<img width="1658" height="943" alt="Screenshot 2025-11-19 200901" src="https://github.com/user-attachments/assets/2eae0713-f46c-43b1-8afd-562cc84a9c4c" />
+
+
+OBSERVATIONS:
+
+<img width="501" height="752" alt="Screenshot 2025-11-19 200725" src="https://github.com/user-attachments/assets/495e511c-22c0-401a-bb86-661c84a5f54a" />
+<img width="478" height="808" alt="Screenshot 2025-11-19 200734" src="https://github.com/user-attachments/assets/f0e82e15-91bc-4812-9541-3f535b143432" />
+<img width="500" height="804" alt="Screenshot 2025-11-19 200741" src="https://github.com/user-attachments/assets/24c51481-b222-42ba-9d58-d1bd8f4ced4a" />
+<img width="455" height="773" alt="Screenshot 2025-11-19 200747" src="https://github.com/user-attachments/assets/f57155be-e004-4211-a71b-8c7a6ba2d7a3" />
+
+
+
+
 RESULT: - LVDT was studied well and graph of displacement was linear for a particular range.
